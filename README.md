@@ -2,8 +2,8 @@
 
 Fast, reliable MUNI times for your commute to work and home.
 
-![alt tag](/screenshots/muniButlerMobile1.png)
-![alt tag](/screenshots/muniButlerMobile2.png)
+![alt tag](/screenshots/MuniButlerMobile1.png)
+![alt tag](/screenshots/MuniButlerMobile2.png)
 
 ## Team
 
